@@ -19,7 +19,7 @@ dependencies:
   - nose
   - pip:
     - pgcontents
-    - pgcontents
+    - pandas
     - numpy
     - matplotlib
     - tensorflow
