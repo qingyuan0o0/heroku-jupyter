@@ -18,5 +18,5 @@ dependencies:
   - sqlalchemy
   - nose
   - pip:
-    - seaborn
+    - tushare
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
